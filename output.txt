@@ -1,0 +1,23 @@
+STUDENT GRADE TRACKER OUTPUT
+============================
+
+All Students:
+Alice - 95 - Grade A
+bob - 87 - Grade B
+charlie - 92 - Grade A
+diana - 78 - Grade C
+eve - 88 - Grade B
+frank - 91 - Grade A
+
+Statistics:
+Total Students: 6
+Average Mark: 88.5
+
+Highest: Alice with 95
+Lowest: diana with 78
+
+Grade Distribution:
+Grade A: 3 students
+Grade B: 2 students
+Grade C: 1 student
+Grade D: 0 students
